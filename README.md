@@ -1,3 +1,3 @@
 # Lab 5 - Starter
 - Matthew Gross
-- [Expose](expose.html)
+- [Expose](https://maarongross.github.io/Lab5_Starter/expose.html)
